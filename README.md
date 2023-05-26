@@ -1,3 +1,4 @@
+![Coffee Beans](https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 # Here are some interesting coffee facts for you:
 
 1. Legend has it that coffee was discovered by a goat herder named Kaldi in Ethiopia in the 9th century. He noticed that his goats became energetic and lively after eating the berries from a certain tree, which turned out to be a coffee tree.
