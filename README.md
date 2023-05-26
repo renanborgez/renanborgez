@@ -4,11 +4,11 @@ Here are some interesting coffee facts for you:
 
 2. Coffee is one of the most widely consumed beverages in the world, with over 2.25 billion cups consumed every day.
 
-3. The two main species of coffee are Arabica and Robusta. Arabica beans are generally considered to have a more delicate and complex flavor, while Robusta beans are stronger and have higher caffeine content.
+3. The two main species of coffee are **Arabica** and **Robusta**. Arabica beans are generally considered to have a more delicate and complex flavor, while Robusta beans are stronger and have higher caffeine content.
 
 4. Coffee is grown in more than 50 countries around the world, primarily in the "Coffee Belt" located between the Tropics of Cancer and Capricorn.
 
-5. The world's largest coffee producer is Brazil, followed by Vietnam and Colombia.
+5. The world's largest coffee producer is **Brazil**, followed by Vietnam and Colombia.
 
 6. The caffeine in coffee is a natural stimulant that can help improve focus, alertness, and energy levels. However, the effects can vary depending on the individual's tolerance and sensitivity to caffeine.
 
@@ -18,9 +18,9 @@ Here are some interesting coffee facts for you:
 
 9. Coffee has been linked to several health benefits when consumed in moderation, including a reduced risk of certain diseases such as Parkinson's disease, type 2 diabetes, and liver disease.
 
-10. The term "Cappuccino" comes from the resemblance of its color to the robes of the Capuchin monks. The drink was named after them in the 17th century.
+10. The term **"Cappuccino"** comes from the resemblance of its color to the robes of the Capuchin monks. The drink was named after them in the 17th century.
 
-11. The most expensive coffee in the world is called Kopi Luwak. It is made from coffee beans that have been eaten and excreted by a civet cat-like animal called the Asian palm civet.
+11. The most expensive coffee in the world is called **Kopi Luwak**. It is made from coffee beans that have been eaten and excreted by a civet cat-like animal called the Asian palm civet.
 
 12. The coffee industry employs millions of people worldwide, from farmers and pickers to roasters, baristas, and café owners.
 
