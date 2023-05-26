@@ -1,4 +1,4 @@
-Here are some interesting coffee facts for you:
+# Here are some interesting coffee facts for you:
 
 1. Legend has it that coffee was discovered by a goat herder named Kaldi in Ethiopia in the 9th century. He noticed that his goats became energetic and lively after eating the berries from a certain tree, which turned out to be a coffee tree.
 
@@ -24,6 +24,8 @@ Here are some interesting coffee facts for you:
 
 12. The coffee industry employs millions of people worldwide, from farmers and pickers to roasters, baristas, and café owners.
 
-Remember to enjoy your cup of coffee responsibly and in moderation!
+## Remember to enjoy your cup of coffee responsibly and in moderation!
+
+
 
 <a href="https://www.buymeacoffee.com/renanborgez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
