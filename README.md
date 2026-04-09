@@ -15,13 +15,6 @@
 
 I'm a full-stack engineer who likes shipping things that feel good to use. Most of my day job lives in the world of React, TypeScript and Node, but I also dip into Go, Dart and the occasional shader when a project calls for it.
 
-I care about:
-
-- 🧭 **User experience first** — the code is a means, not the goal
-- ⚡ **Momentum over perfection** — small, working iterations beat big plans
-- 🧩 **Understanding the problem** before touching a keyboard
-- 🎮 **Playful side projects** that let me learn new corners of the stack
-
 ---
 
 ### 🛠️ Tech I reach for
@@ -46,15 +39,6 @@ A browser-first multiplayer voxel sandbox with real-time combat, six tiers of mo
 
 #### 🔐 [react-nice-input-password](https://github.com/renanborgez/react-nice-input-password) · ⭐ 10
 A React password input with a built-in, configurable strength meter powered by regex rules. Material UI compatible.
-
-#### 🎨 [kandinsky-dart](https://github.com/renanborgez/kandinsky-dart) · ⭐ 5
-A Dart color library — gradient generation, RGB/HEX/HSL/Hue conversions. A port of `kandinsky-js` to the Dart ecosystem.
-
-#### 📜 [old-github-feed](https://github.com/renanborgez/old-github-feed) · ⭐ 2
-A userscript that brings the old GitHub activity feed back to life on top of the redesigned one. For the nostalgic among us.
-
-#### 🧘 [TrelloFlow](https://github.com/renanborgez/TrelloFlow)
-A Chrome extension that hides the Trello columns you don't care about so you can focus on the ones you do.
 
 #### 🎭 [ohmyzsh-theme-renanborgez](https://github.com/renanborgez/ohmyzsh-theme-renanborgez)
 My personal oh-my-zsh theme. Because your terminal is your home.
