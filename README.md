@@ -59,10 +59,3 @@ I'm always open to interesting problems, side projects, or a coffee chat about e
     <img alt="GitHub" src="https://img.shields.io/badge/Follow on GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renanborgez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4EF&icon_color=4EF&text_color=C9D1D9" alt="Renan's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanborgez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4EF&text_color=C9D1D9" alt="Top languages" height="165">
-</p>
