@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Renan 👋</h1>
 
 <p align="center">
-  <em>Software engineer at <a href="https://www.ibm.com/">IBM</a> · based in the Netherlands 🇳🇱 · building on the web since 2012</em>
+  <em>Software engineer at <a href="https://betterup/">BetterUp</a> · based in the Netherlands 🇳🇱 · building on the web since 2012</em>
 </p>
 
 <p align="center">
